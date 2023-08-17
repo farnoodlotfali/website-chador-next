@@ -29,10 +29,10 @@ const Home = () => {
         <title> چادرملو - صفحه اصلی</title>
       </Head>
 
-      <HeroSection />
+      {/* <HeroSection />
       <Button fullWidth variant="outlined" onClick={toggleTheme}>
         toggleTheme
-      </Button>
+      </Button> */}
       <AboutSite />
       <Features />
       <AppSection />
