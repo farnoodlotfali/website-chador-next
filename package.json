@@ -1,0 +1,33 @@
+{
+  "name": "chador-malo-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3011",
+    "build": "next build",
+    "start": "next start -p 3011",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/lab": "^5.0.0-alpha.140",
+    "@mui/material": "^5.14.5",
+    "@package/map": "^2.0.0",
+    "@turf/bezier-spline": "^6.5.0",
+    "@turf/helpers": "^6.5.0",
+    "js-cookie": "^3.0.5",
+    "leaflet": "^1.9.4",
+    "next": "13.4.16",
+    "next-images": "^1.8.5",
+    "nextjs-progressbar": "^0.0.16",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.4",
+    "react-leaflet": "^4.2.1",
+    "stylis": "^4.3.0",
+    "stylis-plugin-rtl": "^2.1.1"
+  }
+}
